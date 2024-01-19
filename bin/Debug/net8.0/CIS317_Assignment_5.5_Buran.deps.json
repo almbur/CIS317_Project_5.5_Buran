@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CIS317_Assignment_5.5_Buran/1.0.0": {
+        "runtime": {
+          "CIS317_Assignment_5.5_Buran.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIS317_Assignment_5.5_Buran/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

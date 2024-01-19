@@ -1,0 +1,14 @@
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/bin/Debug/net8.0/CIS317_Assignment_5.5_Buran
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/bin/Debug/net8.0/CIS317_Assignment_5.5_Buran.deps.json
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/bin/Debug/net8.0/CIS317_Assignment_5.5_Buran.runtimeconfig.json
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/bin/Debug/net8.0/CIS317_Assignment_5.5_Buran.dll
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/bin/Debug/net8.0/CIS317_Assignment_5.5_Buran.pdb
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.AssemblyInfoInputs.cache
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.AssemblyInfo.cs
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.csproj.CoreCompileInputs.cache
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.dll
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/refint/CIS317_Assignment_5.5_Buran.dll
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.pdb
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/CIS317_Assignment_5.5_Buran.genruntimeconfig.cache
+/Users/albur/Desktop/ECPI_Bachelor_Classes/CIS317_C#_Advanced/CIS317_Assignment_5.5_Buran/obj/Debug/net8.0/ref/CIS317_Assignment_5.5_Buran.dll

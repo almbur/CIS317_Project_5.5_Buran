@@ -1,0 +1,8 @@
+1/19/2024 10:07:44 AM - Starting the application.
+1/19/2024 10:07:44 AM - Iterative Printing of Buildings
+1/19/2024 10:07:44 AM - Recursive Printing of Buildings
+1/19/2024 10:20:24 AM - Starting the application.
+Hello Almaz Buran!
+You just wrote 2 lines of text to a file!
+1/19/2024 10:20:24 AM - Iterative Printing of Buildings
+1/19/2024 10:20:24 AM - Recursive Printing of Buildings
